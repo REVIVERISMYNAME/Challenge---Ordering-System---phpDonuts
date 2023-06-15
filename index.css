@@ -1,0 +1,15 @@
+body {
+    background-color:bisque;
+    border: solid 5px blue;
+    margin: 0px;
+    padding: 10px
+};
+
+.header {
+    text-align: center;
+    border: solid 5px greenyellow;
+
+    background-color: rgb(219, 160, 190);
+};
+
+
